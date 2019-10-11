@@ -17,7 +17,7 @@ public class FXMLController implements Initializable {
         System.out.println("You clicked me!");
         
         //I added a comment
-        label.setText("Hello World!");
+        label.setText("Hello IS3313!");
     }
     
     @Override
